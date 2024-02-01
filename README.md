@@ -19,4 +19,4 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Últimos posts:
-- [Projeto de site de agendamento](https://youtu.be/TjkFGrjkXfc)<br/>
+- [Projeto de site de agendamento](https://www.linkedin.com/feed/update/urn:li:activity:7158851548205203456/)<br/>
