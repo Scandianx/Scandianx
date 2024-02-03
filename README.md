@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Filipe 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-scandiani-494138291/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipescandiani/)
 
 ![Scandianx GitHub stats](https://github-readme-stats.vercel.app/api?username=Scandianx&show_icons=true&theme=dracula&count_private=true)
 
