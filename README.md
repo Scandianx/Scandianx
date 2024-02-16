@@ -21,3 +21,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ### Últimos posts:
 - [Projeto de site de agendamento](https://www.linkedin.com/feed/update/urn:li:activity:7158851548205203456/)<br/>
+- [Projeto ChatBot de atendimento](https://www.linkedin.com/feed/update/urn:li:activity:7164272229894098945/)<br/>
