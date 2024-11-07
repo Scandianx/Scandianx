@@ -1,10 +1,10 @@
-## Opa! Eu sou o Filipe 🖐️
+## Hey! I'm Filipe 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipescandiani/)
 
 
 
-## Tecnologias que eu uso no meu dia
+## Technical Skills:
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,7 +17,9 @@
  
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Full Stack Developer passionate about building impactful projects and continuously improving my skills. I have a solid academic foundation, securing the top position at UENF and second at IFF, both prestigious federal universities in my region. This background reflects my dedication to excellence and commitment to learning. Additionally, I've engaged in scientific research in artificial intelligence, expanding my understanding of technology and its real-world applications.
+
+With a year of hands-on experience, I am skilled in developing backend and frontend solutions, including APIs, iOS and Mobile applications, and websites. My time working in a software house has enhanced my problem-solving abilities and resilience, and I consistently apply clean code and SOLID principles to ensure my work is efficient and maintainable.
 
 ### Últimos posts:
 - [Projeto de site de agendamento](https://www.linkedin.com/feed/update/urn:li:activity:7158851548205203456/)<br/>
